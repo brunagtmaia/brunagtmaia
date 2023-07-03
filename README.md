@@ -17,6 +17,7 @@ Aqui estão as linguagens de programação que estou familiarizada:
 - JavaScript
 - PHP
 - SQL
+- Python
 
 ## Frameworks
 
