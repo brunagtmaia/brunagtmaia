@@ -5,7 +5,6 @@ Olá! Meu nome é Bruna e sou estudante de Desenvolvimento de Sistemas. Estou mu
 ## Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas.
-- 💼 Pretendo me especializar em Desenvolvimento de Apps Mobile.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brunagtmaia)
 
 ## Linguagens de Programação
