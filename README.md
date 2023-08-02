@@ -9,7 +9,7 @@ Olá! Meu nome é Bruna e sou estudante de Desenvolvimento de Sistemas. Estou mu
 
 ## Linguagens de Programação
 
-Aqui estão as linguagens de programação que estou familiarizada:
+Aqui estão as linguagens que estou familiarizada:
 
 - HTML
 - CSS
