@@ -36,7 +36,7 @@ Obrigada por visitar meu perfil do GitHub! 😊🚀
 ## 🚀 Minhas Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,java,sql"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,java,python"/>
 </p>
 
 ## 👩‍💻 Informações da conta do GitHub
