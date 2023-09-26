@@ -9,7 +9,7 @@ Olá! Meu nome é Bruna e sou estudante de Desenvolvimento de Sistemas. Estou mu
 
 ## Tecnologias
 
-Aqui estão as Tecnologia que estou familiarizada:
+Aqui estão as tecnologias que estou familiarizada:
 
 - HTML
 - CSS
