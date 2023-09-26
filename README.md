@@ -7,9 +7,9 @@ Olá! Meu nome é Bruna e sou estudante de Desenvolvimento de Sistemas. Estou mu
 - 🎓 Estudante de Desenvolvimento de Sistemas.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brunagtmaia)
 
-## Linguagens de Programação
+## Tecnologias
 
-Aqui estão as linguagens que estou familiarizada:
+Aqui estão as Tecnologia que estou familiarizada:
 
 - HTML
 - CSS
