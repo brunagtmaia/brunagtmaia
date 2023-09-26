@@ -14,6 +14,7 @@ Aqui estão as linguagens que estou familiarizada:
 - HTML
 - CSS
 - JavaScript
+- Java
 - PHP
 - SQL
 - Python
